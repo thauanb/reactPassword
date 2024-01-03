@@ -9,7 +9,6 @@ node_modules/
 .idea/
 
 # Dependency lock files
-git add .gitignore
 package-lock.json
 
 # Environment variables
